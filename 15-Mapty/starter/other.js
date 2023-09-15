@@ -1,0 +1,1 @@
+const globalVar = 'this is a global variable to try using in another script';
